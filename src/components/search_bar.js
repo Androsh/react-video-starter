@@ -1,9 +1,11 @@
 import React, { Component } from "react";
 
+// Functional component
 // const SearchBar = () => {
 //   return <input />;
 // };
 
+// ~Class based component
 class SearchBar extends Component {
   constructor(props) {
     super(props);
